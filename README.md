@@ -47,7 +47,7 @@ Dans cette partie l’utilisateur a le droit de :
 - Spring MVC
 - Spring Security
 - Spring Web Flow
-- HTML, CSS, JQuery, Bootstrap
+- HTML, CSS, jQuery, Bootstrap
 
 ---
 
