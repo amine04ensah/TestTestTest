@@ -54,7 +54,7 @@ Dans cette partie l’utilisateur a le droit de :
 ## Installation:
 
 - Cloner le projet dans votre IDE
-- Copier coller les fichiers de base de données qui se trouvent dans le chemin:<br/> **smartPhonesBoutique/src/main/webapp/WEB-INF/resource/BD**   dans le répertoire: <br/> **C:\Users\NomDeVotreOrdinateur, sur votre machine**
+- Copier coller les fichiers de base de données qui se trouvent dans le chemin:<br/> **smartPhonesBoutique/src/main/webapp/WEB-INF/resource/BD**   dans le répertoire: <br/> **C:\Users\NomDeVotreOrdinateur**, sur votre machine
 - cliquer droit-> Run As-> Maven Build
 - cliquer droit-> Maven-> Update Project
 - cliquer droit-> Properties-> Targeted Runtimes-> cocher "Apache Tomcat v8.5 puis cliquer sur le bouton "OK"
