@@ -53,8 +53,8 @@ Dans cette partie l’utilisateur a le droit de :
 
 ## Installation:
 
-- Cloner le projet autant que "existing maven project"
-- Copier coller les fichier de base de données quis se trouvent dans le chemin:
+- Cloner le projet dans votre IDE
+- Copier coller les fichier de base de données qui se trouvent dans le chemin:smartPhonesBoutique/src/main/webapp/WEB-INF/resource/BD
       dans le répertoire: C:\Users\NomDeVotreOrdinateur, sur votre machine
 - cliquer droit-> Run As-> Maven Build
 - cliquer droit-> Maven-> Update Project
